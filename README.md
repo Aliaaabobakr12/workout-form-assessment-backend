@@ -17,7 +17,5 @@ The Workout Form Assessment project aims to provide real-time feedback on workou
 
 - Node.js
 - Express.js
-- TensorFlow.js (or TensorFlow for Node.js)
-- OpenCV
 - Docker
 - Nodemon
